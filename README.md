@@ -1,2 +1,11 @@
-# GPT-s-Game-of-Life
-ChatGPT did 100% of the coding, and I did the testing. Who knows what happens after the first release.
+# ChatGPT's Game of ife
+
+## Dependencies
+Python, Pygame
+
+## Keybinds
+Spacebar - Pause/Resume
+Click - Add/Remove cells
+1 - Normal cells
+2 - Immortal cells
+3 - Ephemeral cells
