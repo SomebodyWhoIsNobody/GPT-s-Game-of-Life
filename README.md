@@ -3,11 +3,13 @@
 ## Dependencies
 Python, Pygame
 
-## Keybinds
+## Keybinds (For latest ver.)
 - Spacebar - Pause/Resume
 - Click - Add/Remove cells
 - 1 - Normal cells
 - 2 - Immortal cells
 - 3 - Ephemeral cells
+- 4 - Viral cells
+- 5 - Shrinker cells
 - C - Clear all
 - R - Clear & add random cells
