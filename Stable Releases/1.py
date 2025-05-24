@@ -75,7 +75,7 @@ def main():
     """Main loop to run the Game of Life with pause and cell toggle."""
     pygame.init()
     screen = pygame.display.set_mode((GRID_WIDTH * CELL_SIZE, GRID_HEIGHT * CELL_SIZE))
-    pygame.display.set_caption("Conway's Game of Life")
+    pygame.display.set_caption("GPT's Game of Life")
     clock = pygame.time.Clock()
     font = pygame.font.SysFont(None, 36)
 
