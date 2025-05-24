@@ -11,5 +11,7 @@ Python, Pygame
 - 3 - Ephemeral cells
 - 4 - Viral cells
 - 5 - Shrinker cells
+- 6 - Spreader cells
+- 7 - Blinker cells (Doesn't work.)
 - C - Clear all
 - R - Clear & add random cells
